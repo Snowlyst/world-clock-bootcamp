@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Snowlyst/worldclockBCMP/static/css/main.2b9d144f.css",
+    "main.js": "/Snowlyst/worldclockBCMP/static/js/main.a21da66e.js",
+    "static/media/logo.png": "/Snowlyst/worldclockBCMP/static/media/logo.e54ce6ab620f8c7135f3.png",
+    "index.html": "/Snowlyst/worldclockBCMP/index.html",
+    "main.2b9d144f.css.map": "/Snowlyst/worldclockBCMP/static/css/main.2b9d144f.css.map",
+    "main.a21da66e.js.map": "/Snowlyst/worldclockBCMP/static/js/main.a21da66e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9d144f.css",
+    "static/js/main.a21da66e.js"
+  ]
+}
